@@ -24,7 +24,7 @@ body {
 }
 
 .content {
-    --frame: #4c5c75;
+    --frame: #0d66a5;
     --bush: #0d66a5;
     --dot1: radial-gradient(circle at 50% 50%, var(--bush) 0 0.25vmin, #fff0 calc(0.25vmin + 1px) 100%);
     --dot2: radial-gradient(circle at 50% 50%, var(--bush) 0 0.5vmin, #fff0 calc(0.5vmin + 1px) 100%);
